@@ -262,7 +262,7 @@
         <wss4j.version>1.5.11.wso2v15</wss4j.version>
         <xmlsec.version>2.3.0</xmlsec.version>
         <jsr105.version>1.0.1.wso2v1</jsr105.version>
-        <wss4j.xml.security.imp.pkg.version.range>[2.1.7,2.4.0)</wss4j.xml.security.imp.pkg.version.range>
+        <xmlsec.version.imp.pkg.version.range>[2.1.7,2.4.0)</xmlsec.version.imp.pkg.version.range>
         <wss4j.ws.security.imp.pkg.version.range>[1.5.11,2.0.0)</wss4j.ws.security.imp.pkg.version.range>
         <javax.xml.parsers.import.pkg.version>[0.0.0, 1.0.0)</javax.xml.parsers.import.pkg.version>
         <inbound.auth.saml.version>5.7.0</inbound.auth.saml.version>

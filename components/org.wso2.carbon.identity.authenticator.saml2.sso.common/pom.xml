@@ -119,7 +119,7 @@
                             org.apache.commons.logging; version="${commons-logging.osgi.version.range}",
                             org.apache.commons.lang; version="${commons-lang.wso2.osgi.version.range}",
                             org.apache.commons.codec.binary; version="${commons-codec.wso2.osgi.version.range}",
-                            org.apache.xml.security.*; version="${wss4j.xml.security.imp.pkg.version.range}",
+                            org.apache.xml.security.*; version="${xmlsec.version.imp.pkg.version.range}",
                             org.opensaml.*; version="${opensaml2.wso2.osgi.version.range}",
                             net.shibboleth.utilities.java.support.*; version="${opensaml2.wso2.osgi.version.range}",
                             org.joda.time;version="${joda.wso2.osgi.version.range}",
